@@ -1,6 +1,7 @@
 EssDee-Resume 
 =========================
-As one can guess, this is forked from the Deedy-Resume
+As one can guess, this is forked from the Deedy-Resume.
+
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
 As of **v1.2**, there is an option to choose from two templates:
 
